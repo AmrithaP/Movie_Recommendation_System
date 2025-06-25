@@ -11,7 +11,6 @@ This project implements a **collaborative filtering-based movie recommendation s
 ├──  movie_recommendation_svd.ipynb              # Jupyter Notebooks for EDA and model training
 ├── requirements.txt                             # Python dependencies
 └── README.md                                    # Project documentation
-```
 
 ---
 
