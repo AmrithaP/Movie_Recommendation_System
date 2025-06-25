@@ -8,11 +8,9 @@ This project implements a **collaborative filtering-based movie recommendation s
 
 ```
 📁 movie-recommender-svd/
-├── notebooks/              # Jupyter Notebooks for EDA and model training
-├── src/                    # Source code (optional modular Python files)
-├── data/                   # Dataset (if included or script to download)
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
+├──  movie_recommendation_svd.ipynb              # Jupyter Notebooks for EDA and model training
+├── requirements.txt                             # Python dependencies
+└── README.md                                    # Project documentation
 ```
 
 ---
@@ -112,7 +110,7 @@ I’m [Amritha Prakash](https://www.linkedin.com/in/amritha-prakash), a graduate
 
 Have feedback or want to collaborate? Reach out to me:
 
-* 📧 [amrithaprakash@example.com](mailto:amrithaprakash@example.com)
+* 📧 [amrithaprakash17@gmail.com](mailto:amrithaprakash17@gmail.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/amritha-prakash)
 
 ---
